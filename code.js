@@ -40,3 +40,5 @@ function outputComponentUsageAsCSV() {
 }
 // 関数を直接実行
 outputComponentUsageAsCSV();
+figma.notify("使用コンポーネントの一覧が出力されました。consoleから確認してください。");
+figma.closePlugin();

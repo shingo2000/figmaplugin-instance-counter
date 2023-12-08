@@ -1,7 +1,7 @@
 {
-  "name": "figmaplugin-instance-finder",
+  "name": "figmaplugin-instance-counter",
   "version": "1.0.0",
-  "description": "自分のFigmaプラグイン",
+  "description": "Figmaファイル内のインスタンスを列挙して、使用回数をカウントします",
   "main": "code.js",
   "scripts": {
     "build": "tsc -p tsconfig.json",
